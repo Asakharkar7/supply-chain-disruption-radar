@@ -18,6 +18,8 @@ It predicts **shipment ETA delays**, **delay severity**, and **route anomalies**
 5. **AWS Lambda (Serverless Inference)** — Executed the model predictions on demand.
 6. **API Gateway (Public Endpoint)** — Exposed the model as a real-time REST API endpoint for external systems.
 
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/7cce6f48-11bb-43c8-a9f4-e51ca4c134fb" />
+
 ---
 
 ## 🧩 Components Included
